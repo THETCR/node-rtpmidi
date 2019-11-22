@@ -13,8 +13,8 @@
     "winston": "^3.2.1"
   },
   "optionalDependencies": {
-    "avahi_pub": "TheThingSystem/node_avahi_pub",
-    "mdns": "2.3.3"
+    "avahi_pub": "tthef/node_avahi_pub",
+    "mdns": "^2.5.1"
   },
   "keywords": [
     "midi",
@@ -28,9 +28,9 @@
     "node": ">=0.4.0"
   },
   "devDependencies": {
-    "eslint": "^5.16.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.17.3"
+    "eslint": "^6.6.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
   },
   "scripts": {
     "lint": "eslint src/"
